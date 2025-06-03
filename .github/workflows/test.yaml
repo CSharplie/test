@@ -12,5 +12,5 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Hello world
-        uses: csharplie/actions/lakehouse-table
+        uses: csharplie/actions/lakehouse-table@a8bc2a9
 
